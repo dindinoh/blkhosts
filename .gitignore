@@ -1,1 +1,7 @@
 blkhosts
+.buildfile
+.buildfile-e
+.cmdfile
+.noquickload.lisp
+.quickloads
+quicklisp-manifest.txt
